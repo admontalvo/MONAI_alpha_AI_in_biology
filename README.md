@@ -2,7 +2,7 @@
 
 This repository is derived as a subsection of the ISIC 2018: Skin Lesion Analysis Towards Melanoma Detection Challenge. The goal of this challenge was to  is to help participants develop image analysis tools to enable the automated diagnosis of melanoma from dermoscopic images. Participants were tasked with three tasks listed below. In this repository image segmentation was performed on a spleen utalizing the images from this challenge.
 
-#Task 1: Lesion Segmentation
+#Task 1: Lesion Segmentation/
 #Task 2: Lesion Attribute Detection/ 
 #Task 3: Disease Classification
 
