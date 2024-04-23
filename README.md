@@ -9,4 +9,4 @@ The idea of this repository was derived from the ISIC 2018: Skin Lesion Analysis
 Link to challenge information: https://www.dermengine.com/blog/metaoptima-awarded-isic-2018-challenge
 
 ### MONAI and image segmentation
-In this repositry project we used Medical Open Network for AI (MONAI) to segment the spleen from medical images using the the Project-MONAI 3d segmentation tutorials as a framework (https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/spleen_segmentation_3d.ipynb) and to test the power of MONAI with segmentation and medical images.    
+In this repositry project we used Medical Open Network for AI (MONAI) to segment the spleen from medical images using the the Project-MONAI 3d segmentation tutorials as a framework (https://github.com/Project-MONAI/tutorials/blob/main/3d_segmentation/spleen_segmentation_3d.ipynb) and to test the power of MONAI with segmentation and medical images. The dataset and tasks are derived from the Medical Segmentation Decathlon Challenge.   
